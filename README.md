@@ -1,0 +1,2 @@
+# gardenctl
+zsh gardenctl plugin
